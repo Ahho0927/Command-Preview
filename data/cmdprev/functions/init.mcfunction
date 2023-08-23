@@ -1,0 +1,2 @@
+scoreboard objectives add cmdprev_raycast_leftdistance dummy
+scoreboard objectives add cmdprev_command_detect dummy
